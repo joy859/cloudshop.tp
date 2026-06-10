@@ -8,7 +8,7 @@ Local code → git push → GitHub Actions → tests → docker build
 
 State: where does it **stop** if a test fails? What stays **manual** in your setup?
 
-The pipeline stops at the Run Tests stage. The Docker image is not built, and the workflow is marked as failed.it can also sop a install dependencies i he network connection is no stable
+The pipeline stops at the Run Tests stage. The Docker image is not built, and the workflow is marked as failed.it can also stop a install dependencies if the network connection is not stable
 
 -What stays manual in your setup?
 
