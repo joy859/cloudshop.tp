@@ -1,6 +1,7 @@
 # Phase A — Weeks 1 & 2
 
 ## 1. Cloud computing for CloudShop
+Cloud computing allows CloudShop to host its applications and data on remote servers accessed through the internet. It provides scalable resources that can be increased or decreased based on customer demand. CloudShop benefits from reduced hardware and maintenance costs because the cloud provider manages the infrastructure. Cloud services also improve availability, reliability, and accessibility from anywhere. Additionally, cloud computing enables faster deployment of applications and easier backup and recovery of data. This helps CloudShop operate efficiently and serve customers effectively.
 
 (5 to 8 lines)
 
