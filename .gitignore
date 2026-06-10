@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.pem
+.DS_Store
+screenshots/*.png
+screenshots/*.jpg
+!screenshots/.gitkeep
